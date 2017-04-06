@@ -5,7 +5,7 @@ public class DBBean
 	private String driverStr = "com.mysql.jdbc.Driver";
 	private String connStr = "jdbc:mysql://localhost:3306/bookhi";
 	private String user = "root";
-	private String password = "123456";
+	private String password = "591920317";
 	private Connection conn = null;
 	private Statement stmt = null;
 	private static DBBean dbbean;
